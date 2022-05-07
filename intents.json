@@ -1,0 +1,34 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": ["Hey", "Hello", "What's up?", "How is it going?", "Hi", "Good day", "Ahoy"],
+            "responses": ["Ahoy!"]
+        },
+        {
+            "tag": "create_note",
+            "patterns": ["Add new note to my list", "add new note"],
+            "responses": [""]
+        },
+        {
+            "tag": "show_note",
+            "patterns": ["show me my notes", "what are my notes?"],
+            "responses": [""]
+        },
+        {
+            "tag": "add_todo",
+            "patterns": ["Add new note to my list", "add new note"],
+            "responses": [""]
+        },
+        {
+            "tag": "show_todos",
+            "patterns": ["show me my todo list", "what do I need to do?", ""],
+            "responses": [""]
+        },
+        {
+            "tag": "quit",
+            "patterns": ["Bye", "Goodbye", "Stop", "Quit", "Shut up"],
+            "responses": [""]
+        }
+    ]
+}
