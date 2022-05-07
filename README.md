@@ -4,7 +4,7 @@ You can add additional functionality with python code. Search for documentation 
 
 # Dependancies
 
-### Neuralintents Library
+### Built using the <a href="https://pypi.org/project/neuralintents/">neuralintents</a> Library
 ``` bash 
 pip install neuralintents 
 ```
@@ -15,7 +15,7 @@ pip install speechrecognition
 ```
 
 ### pyttsx3
-requires pyaudio
+May require pyaudio
 ``` bash
   pip install pyaudio
   pip install pyttsx3
