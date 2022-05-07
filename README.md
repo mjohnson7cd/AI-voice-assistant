@@ -21,10 +21,10 @@ requires pyaudio
   pip install pyttsx3
 ```
 
-# Intentions
-New intentions can be added to <a href="https://github.com/mjohnson7cd/AI-voice-assistant/blob/main/intents.json">intents.json</a>. From here, you can design custom intents. 
+# Intents
+New intents can be added to <a href="https://github.com/mjohnson7cd/AI-voice-assistant/blob/main/intents.json">intents.json</a>. From here, you can design custom intents. 
 
-Example:
+Example Intent:
 ``` json
         {
             "tag": "greeting",
