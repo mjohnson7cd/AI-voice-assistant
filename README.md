@@ -42,7 +42,7 @@ def hello():
     speaker.say("Hello. What can I do for you?")
     speaker.runAndWait()
 ```
-After creating your function, mapp it to your intentions. You can do so in <a href="https://github.com/mjohnson7cd/AI-voice-assistant/blob/e89fc1140e990dac564b9f9a1d2b7b2f15c6146d/main.py#L100-L106">main.py</a>.
+After creating your function, map it to your intentions. You can do so in <a href="https://github.com/mjohnson7cd/AI-voice-assistant/blob/e89fc1140e990dac564b9f9a1d2b7b2f15c6146d/main.py#L100-L106">main.py</a>.
 ``` python
 mappings = {
     "greeting": hello,
